@@ -1,0 +1,269 @@
+body
+{
+	font-family: "Montserrat";
+	text-align: center;
+}
+h1,h3,h4,h5,h6
+{
+	font-family: "Montserrat-Bold";
+}
+h2
+{
+	font-family: 'Montserrat Alternates', sans-serif;
+}
+p
+{
+	color: #8f8f8f;
+}
+#first
+{
+	background: url("images/Resort-background.png");
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: 100% 100%;
+	text-align: left;
+}
+.overlay
+{
+	background: rgba(0,0,0,0.5);
+}
+.navbar
+{
+	padding: 0 0 4.5rem;
+}
+.navbar-brand
+{
+	font-family: 'Courgette', cursive;
+	color: black;
+	text-transform: uppercase;
+	font-size: 2rem;
+	letter-spacing: 1px;
+}
+.nav-link
+{
+	margin: 0 18px;
+}
+.details
+{
+	opacity: 1.0;
+}
+.container-fluid
+{
+	padding: 7% 5% 3% 15%;
+}
+.big-heading
+{
+	font-family: "Montserrat-Black";
+  	font-size: 3.5rem;
+  	line-height: 1.5;
+  	color: white;
+}
+.btn
+{
+	margin: 5% 3% 5% 0;
+}
+.coloured-sec
+{
+	background-color: #C1FFD7;							/*#C7B198;*/
+	color: #fff;
+}
+.plain-sec
+{
+	background-color: #fff;
+}
+#second
+{
+	position: relative;
+}
+.assurance-title
+{
+	font-size: 1.5rem;
+}
+.assurance
+{
+	padding: 4.5%;
+	text-align: center;
+}
+.icon
+{
+	color: #05F4B7;
+}
+.icon:hover
+{
+	color: #B5FFD9; 													/*#B68973;*/
+}
+.gallery-head hr, .pack-head hr, .customer-review-head hr, .signup-form hr
+{
+	position: relative;
+    background: #d43031;
+    height: 2px;
+    width: 70px;
+    margin-bottom: 2%;
+}
+.availabilities-text 
+{
+	margin: 10% 10% 5%;
+	width: 50%;
+	text-align: center;
+	font-size: 1.5rem;
+	line-height: 1.5;
+	color: white;
+}
+.availabilities-text p 
+{
+	color: white;
+}
+.availabilities-text h3 
+{
+	font-size: 3rem;
+	margin-bottom: 3%;
+}
+.drk:after, .drk1:after {
+    content:"";
+    display:block;
+    position:absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    background:#000;
+    opacity:0.5;
+}
+.availabilities-image
+{
+	height:100vh;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.ccd {
+    background: rgba(0,0,0,0.5);
+}
+
+/*.partners-logo
+{
+	width: 10%;
+	margin: 50px 30px 50px;
+}*/
+#fourth
+{
+	padding: 100px;
+	text-align: center;
+}
+.packages-column
+{
+	margin-top: 50px;
+}
+/*.cust-title
+{
+	margin-bottom: 40px;
+}*/
+.customer-review
+{
+	color: black;
+	/*padding: 10%;*/
+}
+.cust-img
+{
+	height:100vh;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.drk1:after
+{
+	opacity: 0.6;
+}
+.carousel-caption
+{
+	width: 30%;
+	height: 40%;
+	text-align: center;
+	position: absolute;
+	/*margin: 25%;*/
+	margin: 10% 20% 10%;
+}
+.ccd1
+{
+	background: rgba(255, 255, 255, 0.2);
+}
+.cust-logo
+{
+	width: 80px;
+	height: 80px;
+	margin-bottom: 30px;
+}
+.card-title
+{
+	font-size: 2rem;
+	/*color: black;*/
+	position: absolute;
+	top: 40%;
+	bottom: 50%;
+	left: 35%;
+}
+.pricing img
+{
+	width: 150px;
+}
+.pricing
+{
+	position: relative;
+	text-align: center;
+	color: white;
+	margin-bottom: 10%;
+}
+.rupees
+{
+	font-size: 20px;
+}
+.basic-book
+{
+	background-color: #e48f3b;
+	border-color: #e48f3b;
+	color: white;
+}
+.standard-book
+{
+	background-color: #2f48e1;
+	border-color: #2f48e1;
+	color: white;
+}
+.premium-book
+{
+	background-color: #e12f2f;
+	border-color: #e12f2f;
+	color: white;
+}
+.pricing-description
+{
+	background-color: #faf8f7;
+	width: 100%;
+}
+.social-icon
+{
+	margin: 20px 10px;
+	text-decoration: none;
+	color: black;
+}
+.copyright
+{
+	margin-top: 0;
+}
+.signup-form
+{
+	text-align: center;
+	margin-top: 2%;
+}
+.news-letter
+{
+	margin-top: 0;
+}
+
+
+
+
+
+/* pr#e12f2f;   
+sta#2f48e1;
+   basic: #e48f3b;
+
+*/
